@@ -1,0 +1,1924 @@
+{
+  "gameData": [
+    {
+      "word": "apple",
+      "translationOptions": [
+        {
+          "countryCode": "GN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "pomme"
+            }
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "translations": [
+            {
+              "languageCode": "ky",
+              "word": "алма",
+              "pronunciation": "alma"
+            },
+            {
+              "languageCode": "ru",
+              "word": "яблоко",
+              "pronunciation": "yabloko"
+            }
+          ]
+        },
+        {
+          "countryCode": "CF",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "pomme"
+            }
+          ]
+        },
+        {
+          "countryCode": "MY",
+          "translations": [
+            {
+              "languageCode": "ms",
+              "word": "epal"
+            }
+          ]
+        },
+        {
+          "countryCode": "CV",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "maçã"
+            }
+          ]
+        },
+        {
+          "countryCode": "HR",
+          "translations": [
+            {
+              "languageCode": "hr",
+              "word": "jabuka"
+            }
+          ]
+        },
+        {
+          "countryCode": "CI",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "pomme"
+            }
+          ]
+        },
+        {
+          "countryCode": "IT",
+          "translations": [
+            {
+              "languageCode": "it",
+              "word": "mela"
+            }
+          ]
+        },
+        {
+          "countryCode": "FJ",
+          "translations": [
+            {
+              "languageCode": "hi",
+              "word": "सेब",
+              "pronunciation": "seb"
+            }
+          ]
+        },
+        {
+          "countryCode": "NO",
+          "translations": [
+            {
+              "languageCode": "no",
+              "word": "eple"
+            }
+          ]
+        },
+        {
+          "countryCode": "IE",
+          "translations": [
+            {
+              "languageCode": "ga",
+              "word": "úchra"
+            }
+          ]
+        },
+        {
+          "countryCode": "SN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "pomme"
+            }
+          ]
+        },
+        {
+          "countryCode": "SR",
+          "translations": [
+            {
+              "languageCode": "nl",
+              "word": "appel"
+            }
+          ]
+        },
+        {
+          "countryCode": "IQ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "تفاحة",
+              "pronunciation": "tufaahatan"
+            },
+            {
+              "languageCode": "ku",
+              "word": "sêv"
+            }
+          ]
+        },
+        {
+          "countryCode": "NP",
+          "translations": [
+            {
+              "languageCode": "ne",
+              "word": "स्याऊ",
+              "pronunciation": "syā'ū"
+            }
+          ]
+        },
+        {
+          "countryCode": "GE",
+          "translations": [
+            {
+              "languageCode": "ka",
+              "word": "ვაშლი",
+              "pronunciation": "vashli"
+            }
+          ]
+        },
+        {
+          "countryCode": "NZ",
+          "translations": [
+            {
+              "languageCode": "mi",
+              "word": "āporo"
+            }
+          ]
+        },
+        {
+          "countryCode": "OM",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "تفاحة",
+              "pronunciation": "tufaahatan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "table",
+      "translationOptions": [
+        {
+          "countryCode": "VA",
+          "translations": [
+            {
+              "languageCode": "it",
+              "word": "tavolo"
+            }
+          ]
+        },
+        {
+          "countryCode": "BH",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "طاولة",
+              "pronunciation": "tawila"
+            }
+          ]
+        },
+        {
+          "countryCode": "NO",
+          "translations": [
+            {
+              "languageCode": "no",
+              "word": "bord"
+            }
+          ]
+        },
+        {
+          "countryCode": "KE",
+          "translations": [
+            {
+              "languageCode": "sw",
+              "word": "meza"
+            }
+          ]
+        },
+        {
+          "countryCode": "PL",
+          "translations": [
+            {
+              "languageCode": "pl",
+              "word": "tabela"
+            }
+          ]
+        },
+        {
+          "countryCode": "LI",
+          "translations": [
+            {
+              "languageCode": "de",
+              "word": "tisch"
+            }
+          ]
+        },
+        {
+          "countryCode": "KW",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "طاولة",
+              "pronunciation": "tawila"
+            }
+          ]
+        },
+        {
+          "countryCode": "DO",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "mesa"
+            }
+          ]
+        },
+        {
+          "countryCode": "GW",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "mesa"
+            }
+          ]
+        },
+        {
+          "countryCode": "CA",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "tableau"
+            }
+          ]
+        },
+        {
+          "countryCode": "ER",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "طاولة",
+              "pronunciation": "tawila"
+            }
+          ]
+        },
+        {
+          "countryCode": "IR",
+          "translations": [
+            {
+              "languageCode": "fa",
+              "word": "جدول"
+            }
+          ]
+        },
+        {
+          "countryCode": "UG",
+          "translations": [
+            {
+              "languageCode": "sw",
+              "word": "meza"
+            }
+          ]
+        },
+        {
+          "countryCode": "LB",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "طاولة",
+              "pronunciation": "tawila"
+            },
+            {
+              "languageCode": "fr",
+              "word": "tableau"
+            }
+          ]
+        },
+        {
+          "countryCode": "LV",
+          "translations": [
+            {
+              "languageCode": "lv",
+              "word": "tabula"
+            }
+          ]
+        },
+        {
+          "countryCode": "PE",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "mesa"
+            }
+          ]
+        },
+        {
+          "countryCode": "DK",
+          "translations": [
+            {
+              "languageCode": "da",
+              "word": "bord"
+            }
+          ]
+        },
+        {
+          "countryCode": "LS",
+          "translations": [
+            {
+              "languageCode": "st",
+              "word": "tafole"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "water",
+      "translationOptions": [
+        {
+          "countryCode": "MN",
+          "translations": [
+            {
+              "languageCode": "mn",
+              "word": "ус",
+              "pronunciation": "us"
+            }
+          ]
+        },
+        {
+          "countryCode": "KH",
+          "translations": [
+            {
+              "languageCode": "km",
+              "word": "រេសាចតឹក",
+              "pronunciation": "re sa ch toek"
+            }
+          ]
+        },
+        {
+          "countryCode": "IN",
+          "translations": [
+            {
+              "languageCode": "hi",
+              "word": "पानी",
+              "pronunciation": "paanee"
+            }
+          ]
+        },
+        {
+          "countryCode": "SE",
+          "translations": [
+            {
+              "languageCode": "sv",
+              "word": "vatten"
+            }
+          ]
+        },
+        {
+          "countryCode": "EC",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "agua"
+            }
+          ]
+        },
+        {
+          "countryCode": "LI",
+          "translations": [
+            {
+              "languageCode": "de",
+              "word": "wasser"
+            }
+          ]
+        },
+        {
+          "countryCode": "DZ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ماء",
+              "pronunciation": "ma'"
+            }
+          ]
+        },
+        {
+          "countryCode": "LK",
+          "translations": [
+            {
+              "languageCode": "si",
+              "word": "ජල",
+              "pronunciation": "jala"
+            },
+            {
+              "languageCode": "ta",
+              "word": "தண்ணீர்",
+              "pronunciation": "taṇṇīr"
+            }
+          ]
+        },
+        {
+          "countryCode": "ER",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ماء",
+              "pronunciation": "ma'"
+            }
+          ]
+        },
+        {
+          "countryCode": "IE",
+          "translations": [
+            {
+              "languageCode": "ga",
+              "word": "uisce a chur ar"
+            }
+          ]
+        },
+        {
+          "countryCode": "GQ",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "eau"
+            },
+            {
+              "languageCode": "es",
+              "word": "agua"
+            },
+            {
+              "languageCode": "pt",
+              "word": "água"
+            }
+          ]
+        },
+        {
+          "countryCode": "SD",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ماء",
+              "pronunciation": "ma'"
+            }
+          ]
+        },
+        {
+          "countryCode": "MY",
+          "translations": [
+            {
+              "languageCode": "ms",
+              "word": "air"
+            }
+          ]
+        },
+        {
+          "countryCode": "CZ",
+          "translations": [
+            {
+              "languageCode": "cs",
+              "word": "voda"
+            }
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "translations": [
+            {
+              "languageCode": "ky",
+              "word": "суу",
+              "pronunciation": "suu"
+            },
+            {
+              "languageCode": "ru",
+              "word": "вода",
+              "pronunciation": "voda"
+            }
+          ]
+        },
+        {
+          "countryCode": "CD",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "eau"
+            }
+          ]
+        },
+        {
+          "countryCode": "MW",
+          "translations": [
+            {
+              "languageCode": "ny",
+              "word": "madzi"
+            }
+          ]
+        },
+        {
+          "countryCode": "WS",
+          "translations": [
+            {
+              "languageCode": "sm",
+              "word": "vai"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "house",
+      "translationOptions": [
+        {
+          "countryCode": "KH",
+          "translations": [
+            {
+              "languageCode": "km",
+              "word": "ផ្ទហ",
+              "pronunciation": "pht h"
+            }
+          ]
+        },
+        {
+          "countryCode": "MM",
+          "translations": [
+            {
+              "languageCode": "my",
+              "word": "အိမ်",
+              "pronunciation": "aain"
+            }
+          ]
+        },
+        {
+          "countryCode": "EC",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "casa"
+            }
+          ]
+        },
+        {
+          "countryCode": "QA",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "منزل",
+              "pronunciation": "manzil"
+            }
+          ]
+        },
+        {
+          "countryCode": "AO",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "casa"
+            }
+          ]
+        },
+        {
+          "countryCode": "PK",
+          "translations": [
+            {
+              "languageCode": "ur",
+              "word": "گھر"
+            }
+          ]
+        },
+        {
+          "countryCode": "TN",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "منزل",
+              "pronunciation": "manzil"
+            }
+          ]
+        },
+        {
+          "countryCode": "GQ",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "maison"
+            },
+            {
+              "languageCode": "es",
+              "word": "casa"
+            },
+            {
+              "languageCode": "pt",
+              "word": "casa"
+            }
+          ]
+        },
+        {
+          "countryCode": "MG",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "maison"
+            },
+            {
+              "languageCode": "mg",
+              "word": "trano"
+            }
+          ]
+        },
+        {
+          "countryCode": "PS",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "منزل",
+              "pronunciation": "manzil"
+            }
+          ]
+        },
+        {
+          "countryCode": "IS",
+          "translations": [
+            {
+              "languageCode": "is",
+              "word": "hús"
+            }
+          ]
+        },
+        {
+          "countryCode": "BN",
+          "translations": [
+            {
+              "languageCode": "ms",
+              "word": "rumah"
+            }
+          ]
+        },
+        {
+          "countryCode": "CD",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "maison"
+            }
+          ]
+        },
+        {
+          "countryCode": "SM",
+          "translations": [
+            {
+              "languageCode": "it",
+              "word": "casa"
+            }
+          ]
+        },
+        {
+          "countryCode": "GR",
+          "translations": [
+            {
+              "languageCode": "el",
+              "word": "σπίτι",
+              "pronunciation": "spíti"
+            }
+          ]
+        },
+        {
+          "countryCode": "CR",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "casa"
+            }
+          ]
+        },
+        {
+          "countryCode": "HU",
+          "translations": [
+            {
+              "languageCode": "hu",
+              "word": "ház"
+            }
+          ]
+        },
+        {
+          "countryCode": "SN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "maison"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "chair",
+      "translationOptions": [
+        {
+          "countryCode": "NE",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "chaise"
+            }
+          ]
+        },
+        {
+          "countryCode": "SC",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "chaise"
+            }
+          ]
+        },
+        {
+          "countryCode": "BD",
+          "translations": [
+            {
+              "languageCode": "bn",
+              "word": "চেয়ার",
+              "pronunciation": "cēẏāra"
+            }
+          ]
+        },
+        {
+          "countryCode": "AM",
+          "translations": [
+            {
+              "languageCode": "hy",
+              "word": "աթոռ",
+              "pronunciation": "at’vorr"
+            }
+          ]
+        },
+        {
+          "countryCode": "KM",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "كرسي",
+              "pronunciation": "kursiun"
+            },
+            {
+              "languageCode": "fr",
+              "word": "chaise"
+            }
+          ]
+        },
+        {
+          "countryCode": "KR",
+          "translations": [
+            {
+              "languageCode": "ko",
+              "word": "의자",
+              "pronunciation": "uija"
+            }
+          ]
+        },
+        {
+          "countryCode": "OM",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "كرسي",
+              "pronunciation": "kursiun"
+            }
+          ]
+        },
+        {
+          "countryCode": "LI",
+          "translations": [
+            {
+              "languageCode": "de",
+              "word": "stuhl"
+            }
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "translations": [
+            {
+              "languageCode": "ky",
+              "word": "кресло",
+              "pronunciation": "kreslo"
+            },
+            {
+              "languageCode": "ru",
+              "word": "стул",
+              "pronunciation": "stul"
+            }
+          ]
+        },
+        {
+          "countryCode": "SG",
+          "translations": [
+            {
+              "languageCode": "ta",
+              "word": "நாற்காலி",
+              "pronunciation": "nāṟkāli"
+            },
+            {
+              "languageCode": "ms",
+              "word": "kerusi"
+            }
+          ]
+        },
+        {
+          "countryCode": "GN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "chaise"
+            }
+          ]
+        },
+        {
+          "countryCode": "YE",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "كرسي",
+              "pronunciation": "kursiun"
+            }
+          ]
+        },
+        {
+          "countryCode": "UY",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "silla"
+            }
+          ]
+        },
+        {
+          "countryCode": "DJ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "كرسي",
+              "pronunciation": "kursiun"
+            },
+            {
+              "languageCode": "fr",
+              "word": "chaise"
+            }
+          ]
+        },
+        {
+          "countryCode": "MX",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "silla"
+            }
+          ]
+        },
+        {
+          "countryCode": "BN",
+          "translations": [
+            {
+              "languageCode": "ms",
+              "word": "kerusi"
+            }
+          ]
+        },
+        {
+          "countryCode": "AO",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "cadeira"
+            }
+          ]
+        },
+        {
+          "countryCode": "MM",
+          "translations": [
+            {
+              "languageCode": "my",
+              "word": "ကုလားထိုင်",
+              "pronunciation": "kularrhtine"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "paper",
+      "translationOptions": [
+        {
+          "countryCode": "LS",
+          "translations": [
+            {
+              "languageCode": "st",
+              "word": "pampiri"
+            }
+          ]
+        },
+        {
+          "countryCode": "KM",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            },
+            {
+              "languageCode": "fr",
+              "word": "papier"
+            }
+          ]
+        },
+        {
+          "countryCode": "KP",
+          "translations": [
+            {
+              "languageCode": "ko",
+              "word": "종이",
+              "pronunciation": "jong-i"
+            }
+          ]
+        },
+        {
+          "countryCode": "IS",
+          "translations": [
+            {
+              "languageCode": "is",
+              "word": "pappír"
+            }
+          ]
+        },
+        {
+          "countryCode": "ET",
+          "translations": [
+            {
+              "languageCode": "am",
+              "word": "ወረቀት",
+              "pronunciation": "werek’eti"
+            }
+          ]
+        },
+        {
+          "countryCode": "DZ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            }
+          ]
+        },
+        {
+          "countryCode": "MK",
+          "translations": [
+            {
+              "languageCode": "mk",
+              "word": "хартија",
+              "pronunciation": "hartija"
+            }
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "translations": [
+            {
+              "languageCode": "ky",
+              "word": "кагаз",
+              "pronunciation": "kagaz"
+            },
+            {
+              "languageCode": "ru",
+              "word": "бумага",
+              "pronunciation": "bumaga"
+            }
+          ]
+        },
+        {
+          "countryCode": "YE",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            }
+          ]
+        },
+        {
+          "countryCode": "JO",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            }
+          ]
+        },
+        {
+          "countryCode": "SD",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            }
+          ]
+        },
+        {
+          "countryCode": "SM",
+          "translations": [
+            {
+              "languageCode": "it",
+              "word": "carta"
+            }
+          ]
+        },
+        {
+          "countryCode": "AO",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "papel"
+            }
+          ]
+        },
+        {
+          "countryCode": "DO",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "papel"
+            }
+          ]
+        },
+        {
+          "countryCode": "MG",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "papier"
+            },
+            {
+              "languageCode": "mg",
+              "word": "taratasy"
+            }
+          ]
+        },
+        {
+          "countryCode": "KZ",
+          "translations": [
+            {
+              "languageCode": "ru",
+              "word": "бумага",
+              "pronunciation": "bumaga"
+            },
+            {
+              "languageCode": "kk",
+              "word": "қағаз",
+              "pronunciation": "qağaz"
+            }
+          ]
+        },
+        {
+          "countryCode": "NE",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "papier"
+            }
+          ]
+        },
+        {
+          "countryCode": "DJ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ورق",
+              "pronunciation": "waraq"
+            },
+            {
+              "languageCode": "fr",
+              "word": "papier"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "plant",
+      "translationOptions": [
+        {
+          "countryCode": "AM",
+          "translations": [
+            {
+              "languageCode": "hy",
+              "word": "գործարան",
+              "pronunciation": "gortsaran"
+            }
+          ]
+        },
+        {
+          "countryCode": "ST",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "plantar"
+            }
+          ]
+        },
+        {
+          "countryCode": "RU",
+          "translations": [
+            {
+              "languageCode": "ru",
+              "word": "растение",
+              "pronunciation": "rasteniye"
+            }
+          ]
+        },
+        {
+          "countryCode": "LB",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            },
+            {
+              "languageCode": "fr",
+              "word": "usine"
+            }
+          ]
+        },
+        {
+          "countryCode": "LU",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "usine"
+            },
+            {
+              "languageCode": "de",
+              "word": "anlage"
+            },
+            {
+              "languageCode": "lb",
+              "word": "quant aarbechten"
+            }
+          ]
+        },
+        {
+          "countryCode": "ET",
+          "translations": [
+            {
+              "languageCode": "am",
+              "word": "ተክል",
+              "pronunciation": "tekili"
+            }
+          ]
+        },
+        {
+          "countryCode": "ZW",
+          "translations": [
+            {
+              "languageCode": "sn",
+              "word": "chirimwa"
+            }
+          ]
+        },
+        {
+          "countryCode": "JO",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "LK",
+          "translations": [
+            {
+              "languageCode": "si",
+              "word": "ශාකය",
+              "pronunciation": "śākaya"
+            },
+            {
+              "languageCode": "ta",
+              "word": "ஆலை",
+              "pronunciation": "ālai"
+            }
+          ]
+        },
+        {
+          "countryCode": "DZ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "YE",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "TR",
+          "translations": [
+            {
+              "languageCode": "tr",
+              "word": "bitki"
+            }
+          ]
+        },
+        {
+          "countryCode": "SO",
+          "translations": [
+            {
+              "languageCode": "so",
+              "word": "dhir"
+            },
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "EC",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "planta"
+            }
+          ]
+        },
+        {
+          "countryCode": "TD",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "usine"
+            },
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "IQ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            },
+            {
+              "languageCode": "ku",
+              "word": "karxane"
+            }
+          ]
+        },
+        {
+          "countryCode": "EG",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "نبات",
+              "pronunciation": "nabat"
+            }
+          ]
+        },
+        {
+          "countryCode": "SG",
+          "translations": [
+            {
+              "languageCode": "ta",
+              "word": "ஆலை",
+              "pronunciation": "ālai"
+            },
+            {
+              "languageCode": "ms",
+              "word": "tumbuhan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "music",
+      "translationOptions": [
+        {
+          "countryCode": "PT",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "música"
+            }
+          ]
+        },
+        {
+          "countryCode": "ZA",
+          "translations": [
+            {
+              "languageCode": "af",
+              "word": "musiek"
+            },
+            {
+              "languageCode": "zu",
+              "word": "umculo"
+            },
+            {
+              "languageCode": "st",
+              "word": "mmino"
+            },
+            {
+              "languageCode": "xh",
+              "word": "umculo"
+            }
+          ]
+        },
+        {
+          "countryCode": "MD",
+          "translations": [
+            {
+              "languageCode": "ro",
+              "word": "muzică"
+            }
+          ]
+        },
+        {
+          "countryCode": "TJ",
+          "translations": [
+            {
+              "languageCode": "ru",
+              "word": "музыка",
+              "pronunciation": "muzyka"
+            },
+            {
+              "languageCode": "tg",
+              "word": "мусиқӣ",
+              "pronunciation": "musiqī"
+            }
+          ]
+        },
+        {
+          "countryCode": "SY",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "موسيقى",
+              "pronunciation": "musiqaa"
+            }
+          ]
+        },
+        {
+          "countryCode": "AR",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "música"
+            }
+          ]
+        },
+        {
+          "countryCode": "BD",
+          "translations": [
+            {
+              "languageCode": "bn",
+              "word": "সংগীত",
+              "pronunciation": "saṅgīta"
+            }
+          ]
+        },
+        {
+          "countryCode": "PY",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "música"
+            }
+          ]
+        },
+        {
+          "countryCode": "YE",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "موسيقى",
+              "pronunciation": "musiqaa"
+            }
+          ]
+        },
+        {
+          "countryCode": "NA",
+          "translations": [
+            {
+              "languageCode": "af",
+              "word": "musiek"
+            }
+          ]
+        },
+        {
+          "countryCode": "SN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "musique"
+            }
+          ]
+        },
+        {
+          "countryCode": "CR",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "música"
+            }
+          ]
+        },
+        {
+          "countryCode": "BR",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "música"
+            }
+          ]
+        },
+        {
+          "countryCode": "UZ",
+          "translations": [
+            {
+              "languageCode": "uz",
+              "word": "musiqa"
+            },
+            {
+              "languageCode": "ru",
+              "word": "музыка",
+              "pronunciation": "muzyka"
+            }
+          ]
+        },
+        {
+          "countryCode": "NP",
+          "translations": [
+            {
+              "languageCode": "ne",
+              "word": "संगीत",
+              "pronunciation": "saṅgīta"
+            }
+          ]
+        },
+        {
+          "countryCode": "CI",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "musique"
+            }
+          ]
+        },
+        {
+          "countryCode": "MN",
+          "translations": [
+            {
+              "languageCode": "mn",
+              "word": "хөгжим",
+              "pronunciation": "khögjim"
+            }
+          ]
+        },
+        {
+          "countryCode": "LS",
+          "translations": [
+            {
+              "languageCode": "st",
+              "word": "mmino"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "queen",
+      "translationOptions": [
+        {
+          "countryCode": "BG",
+          "translations": [
+            {
+              "languageCode": "bg",
+              "word": "кралица",
+              "pronunciation": "kralitsa"
+            }
+          ]
+        },
+        {
+          "countryCode": "IR",
+          "translations": [
+            {
+              "languageCode": "fa",
+              "word": "ملکه"
+            }
+          ]
+        },
+        {
+          "countryCode": "VE",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "reina"
+            }
+          ]
+        },
+        {
+          "countryCode": "LS",
+          "translations": [
+            {
+              "languageCode": "st",
+              "word": "mofumahali"
+            }
+          ]
+        },
+        {
+          "countryCode": "KR",
+          "translations": [
+            {
+              "languageCode": "ko",
+              "word": "여왕",
+              "pronunciation": "yeowang"
+            }
+          ]
+        },
+        {
+          "countryCode": "JO",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            }
+          ]
+        },
+        {
+          "countryCode": "SY",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            }
+          ]
+        },
+        {
+          "countryCode": "AF",
+          "translations": [
+            {
+              "languageCode": "uz",
+              "word": "qirolicha"
+            },
+            {
+              "languageCode": "ps",
+              "word": "ملکه"
+            }
+          ]
+        },
+        {
+          "countryCode": "IE",
+          "translations": [
+            {
+              "languageCode": "ga",
+              "word": "quarainttha"
+            }
+          ]
+        },
+        {
+          "countryCode": "GN",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "reine"
+            }
+          ]
+        },
+        {
+          "countryCode": "SC",
+          "translations": [
+            {
+              "languageCode": "fr",
+              "word": "reine"
+            }
+          ]
+        },
+        {
+          "countryCode": "TN",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            }
+          ]
+        },
+        {
+          "countryCode": "QA",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            }
+          ]
+        },
+        {
+          "countryCode": "MD",
+          "translations": [
+            {
+              "languageCode": "ro",
+              "word": "regină"
+            }
+          ]
+        },
+        {
+          "countryCode": "KW",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            }
+          ]
+        },
+        {
+          "countryCode": "IL",
+          "translations": [
+            {
+              "languageCode": "he",
+              "word": "מַלכָּה"
+            }
+          ]
+        },
+        {
+          "countryCode": "DJ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "ملكة",
+              "pronunciation": "malaka"
+            },
+            {
+              "languageCode": "fr",
+              "word": "reine"
+            }
+          ]
+        },
+        {
+          "countryCode": "GT",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "reina"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "word": "beach",
+      "translationOptions": [
+        {
+          "countryCode": "SK",
+          "translations": [
+            {
+              "languageCode": "sk",
+              "word": "pláž"
+            }
+          ]
+        },
+        {
+          "countryCode": "BH",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "شاطئ",
+              "pronunciation": "shati"
+            }
+          ]
+        },
+        {
+          "countryCode": "MZ",
+          "translations": [
+            {
+              "languageCode": "pt",
+              "word": "praia"
+            }
+          ]
+        },
+        {
+          "countryCode": "CL",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "playa"
+            }
+          ]
+        },
+        {
+          "countryCode": "EC",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "playa"
+            }
+          ]
+        },
+        {
+          "countryCode": "MN",
+          "translations": [
+            {
+              "languageCode": "mn",
+              "word": "далайн эрэг",
+              "pronunciation": "dalain ereg"
+            }
+          ]
+        },
+        {
+          "countryCode": "KZ",
+          "translations": [
+            {
+              "languageCode": "ru",
+              "word": "пляж",
+              "pronunciation": "plyazh"
+            },
+            {
+              "languageCode": "kk",
+              "word": "жағанай",
+              "pronunciation": "jağanay"
+            }
+          ]
+        },
+        {
+          "countryCode": "GE",
+          "translations": [
+            {
+              "languageCode": "ka",
+              "word": "ზღვის ნაპირი",
+              "pronunciation": "zghvis nap’iri"
+            }
+          ]
+        },
+        {
+          "countryCode": "KG",
+          "translations": [
+            {
+              "languageCode": "ky",
+              "word": "пляж",
+              "pronunciation": "plyaj"
+            },
+            {
+              "languageCode": "ru",
+              "word": "пляж",
+              "pronunciation": "plyazh"
+            }
+          ]
+        },
+        {
+          "countryCode": "BA",
+          "translations": [
+            {
+              "languageCode": "bs",
+              "word": "plaža"
+            },
+            {
+              "languageCode": "sr",
+              "word": "плажа",
+              "pronunciation": "plaža"
+            },
+            {
+              "languageCode": "hr",
+              "word": "plaža"
+            }
+          ]
+        },
+        {
+          "countryCode": "VA",
+          "translations": [
+            {
+              "languageCode": "it",
+              "word": "spiaggia"
+            }
+          ]
+        },
+        {
+          "countryCode": "LA",
+          "translations": [
+            {
+              "languageCode": "lo",
+              "word": "ຫາດຊາຍ",
+              "pronunciation": "hadsai"
+            }
+          ]
+        },
+        {
+          "countryCode": "AE",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "شاطئ",
+              "pronunciation": "shati"
+            }
+          ]
+        },
+        {
+          "countryCode": "LI",
+          "translations": [
+            {
+              "languageCode": "de",
+              "word": "strand"
+            }
+          ]
+        },
+        {
+          "countryCode": "IQ",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "شاطئ",
+              "pronunciation": "shati"
+            },
+            {
+              "languageCode": "ku",
+              "word": "berav"
+            }
+          ]
+        },
+        {
+          "countryCode": "LY",
+          "translations": [
+            {
+              "languageCode": "ar",
+              "word": "شاطئ",
+              "pronunciation": "shati"
+            }
+          ]
+        },
+        {
+          "countryCode": "CU",
+          "translations": [
+            {
+              "languageCode": "es",
+              "word": "playa"
+            }
+          ]
+        },
+        {
+          "countryCode": "AM",
+          "translations": [
+            {
+              "languageCode": "hy",
+              "word": "լողափ",
+              "pronunciation": "loghap’"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

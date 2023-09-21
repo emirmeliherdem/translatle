@@ -1,0 +1,48 @@
+/*.translation-card {*/
+/*  width: 6.5rem;*/
+/*  background-color: #333;*/
+/*  margin: 5px;*/
+/*  padding: 10px;*/
+/*  text-align: center;*/
+/*  cursor: pointer;*/
+/*  transition: background-color 0.3s ease;*/
+/*  border-radius: 3px;*/
+/*}*/
+
+/*.translation-card:hover {*/
+/*  background-color: #1d1d1d;*/
+/*}*/
+
+/*.revealed {*/
+/*  background-color: #1d1d1d;*/
+/*  cursor: default;*/
+/*  opacity: 0.8;*/
+/*}*/
+
+/*.flag {*/
+/*  height: 3.1rem;*/
+/*  max-width: 100%;*/
+/*  max-height: 100%;*/
+/*}*/
+
+/*.country-name {*/
+/*  color: #999;*/
+/*  font-weight: bold;*/
+/*  text-transform: capitalize;*/
+/*  !* font-size: 0.67rem; *!*/
+/*  margin-top: 0.6rem;*/
+/*}*/
+
+/*.translations-list {*/
+/*  margin-top: 10px;*/
+/*  border-top: 1px solid #555;*/
+/*  list-style: none;*/
+/*}*/
+
+/*.translations-list li {*/
+/*  color: #ddd;*/
+/*  text-transform: uppercase;*/
+/*  !* font-size: small; *!*/
+/*  font-weight: bold;*/
+/*  margin: 9px;*/
+/*}*/

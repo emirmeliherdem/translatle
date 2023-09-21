@@ -1,0 +1,28 @@
+.letter-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 60px);
+    gap: 5px;
+    justify-content: center;
+}
+
+.letter-tile {
+    width: 60px;
+    height: 60px;
+    /* border: 2px solid #333; */
+    border-radius: 6%;
+    /*background-color: #2a2a2a;*/
+
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: white;
+
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.letter-tile-correct {
+    background-color: #00cc00;
+}

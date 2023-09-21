@@ -1,0 +1,20 @@
+:root {
+  --gray1: #111;
+  --gray3: #333;
+}
+
+body {
+  margin: 0;
+  background-color: var(--gray1);
+  color: white;
+	height: 100vh;
+  
+  font-family: 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
