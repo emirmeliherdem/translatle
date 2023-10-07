@@ -1,2 +1,1 @@
 flask
-word2word

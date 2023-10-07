@@ -1,11 +1,8 @@
 /* Reset some default styles for better consistency */
 body,
 html {
-	margin: 0;
-	padding: 0;
 	background-color: #111;
 	color: white;
-	font-family: Arial, Helvetica, sans-serif;
 }
 
 /* Style for the game container */
@@ -17,64 +14,78 @@ html {
 	height: 100vh;
 }
 
-/* Style for the game title */
-h1 {
-	font-size: 30px;
-	margin-bottom: 20px;
+.card {
+    width: 6.5rem;
+    height: auto;
+    background-color: #3e3e3e;
+    font-size: 0.75rem;
+    padding: 9px;
+    text-align: center;
+}
+
+.active, .card:hover {
+    background-color: #1d1d1d;
+  }
+
+.card-body {
+    padding: 0px;
+}
+
+.card-img-canvas {
+    display: flex;
+    height: 3.1rem;
+    width: auto;
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+}
+
+.card-img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.country-name {
+    color: #999;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 0.67rem;
+    margin-top: 0.4rem;
+    margin-bottom: 0.5rem;
+    min-height: 2.1rem;
+}
+
+.list-group-item {
+    background-color: inherit;
+    color: #ddd;
+    text-transform: lowercase;
+    font-size: 0.9rem;
+    border-top: 1px solid #444 !important;
+    border-bottom: 0px !important;
+    padding: 1px;
+    padding-top: 0.3rem;
+    margin-top: 0.3rem;
 }
 
 /* Style for individual letter tiles in the grid */
 .word-grid {
 	display: grid;
 	grid-template-columns: repeat(5, auto);
+    grid-template-rows: repeat(6, auto);
 }
 
 .letter-tile {
-	width: 30px;
-	height: 30px;
-	border: 2px solid;
-	border-radius: 30%;
+	width: 50px;
+	height: 50px;
+	border: 2px solid #333;
+	border-radius: 20%;
 	margin: 3px;
 	color: white;
-	background-color: #333;
-	/* Dark gray background color */
+	/* background-color: #333; */
 	display: flex;
 	justify-content: center;
 	align-items: center;
 	text-transform: uppercase;
 	display: grid;
-	font-size: 1.2rem;
-}
-
-.circle {
-	position: absolute;
-	width: 280px;
-	height: 280px;
-	border-radius: 50%;
-	display: flex;
-	justify-content: center;
-	align-items: center;
-}
-
-.orbit {
-	position: absolute;
-	animation: rotateText 8s linear infinite;
-}
-
-@keyframes rotateText {
-	0% {
-		transform: rotate(0deg);
-	}
-
-	100% {
-		transform: rotate(360deg);
-	}
-}
-
-.orbit span {
-	position: absolute;
-	left: 50%;
-	font-size: 1em;
-	transform-origin: 0 200px;
-	text-transform: uppercase;
+	font-size: 1.7rem;
 }

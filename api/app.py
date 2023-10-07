@@ -5,28 +5,33 @@ import random
 import googletrans
 from googletrans import Translator
 from flask_cors import cross_origin
+import countries
 
 app = Flask(__name__)
 
-TRANS_COUNT = 7
+OPTION_COUNT = 3
 SUPPORTED_LANGUAGES = googletrans.LANGUAGES.keys()
-
-def get_random_languages():
-    random_languages = random.sample(SUPPORTED_LANGUAGES, TRANS_COUNT)
-    return random_languages
+GAME_LANGUAGE = 'en'
 
 # Replace this with your logic to fetch data from the "word2word" dataset
 def fetch_word_translations(word):
-    languages = get_random_languages()
-    translations = []
-    for lang in languages:
-        result = Translator().translate(text=word, src='en', dest=lang)
-        translations.append({
-            "language": lang,
-            "word": result.text,
-            "pronounciation": result.pronunciation,
-        })
-    return translations
+    countries_list = countries.get_filtered_countries_data(GAME_LANGUAGE, SUPPORTED_LANGUAGES)
+    selected_countries = countries.get_random_countries(countries_list, OPTION_COUNT)
+    results = []
+    for country in selected_countries:
+        option = country.copy()
+        translations = []
+        for lang in country['Language Codes']:
+            if lang in SUPPORTED_LANGUAGES:
+                translator = Translator().translate(text=word, src='en', dest=lang)
+                translations.append({
+                    'language': lang, 
+                    'word': translator.text, 
+                    'pronounciation': translator.pronunciation,
+                })
+        option['Translations'] = translations
+        results.append(option)
+    return results
 
 @app.route('/translations/<word>')
 @cross_origin()
