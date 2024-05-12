@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/translatle/static/css/main.3fc42ccb.css",
+    "main.js": "/translatle/static/js/main.2dd8d3be.js",
+    "static/js/453.9f08f537.chunk.js": "/translatle/static/js/453.9f08f537.chunk.js",
+    "index.html": "/translatle/index.html",
+    "main.3fc42ccb.css.map": "/translatle/static/css/main.3fc42ccb.css.map",
+    "main.2dd8d3be.js.map": "/translatle/static/js/main.2dd8d3be.js.map",
+    "453.9f08f537.chunk.js.map": "/translatle/static/js/453.9f08f537.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc42ccb.css",
+    "static/js/main.2dd8d3be.js"
+  ]
+}
