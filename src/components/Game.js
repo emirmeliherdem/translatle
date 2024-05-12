@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from "react";
+import React, { useState, useEffect, useCallback, useRef } from "react";
 import { dictionary } from "../constants/words";
 import WordGrid from "./WordGrid";
 import TranslationCardsContainer from "./TranslationCards";
@@ -40,6 +40,15 @@ const Game = ({ secretWord, translationList }) => {
       })),
     }));
   }
+
+  const inputRef = useRef(null);
+  useEffect(() => {
+    if (gameState === GAME_STATES.GUESS) {
+      inputRef.current.focus();
+    } else {
+      inputRef.current.blur();
+    }
+  }, [gameState]);
 
   const handleKeyPress = useCallback(
     (e) => {
@@ -197,6 +206,7 @@ const Game = ({ secretWord, translationList }) => {
           flexDirection: "column",
           justifyContent: "flex-end",
           opacity: gameState === GAME_STATES.PICK ? 0.2 : 0.8,
+          position: "relative",
         }}
       >
         <WordGrid
@@ -204,6 +214,26 @@ const Game = ({ secretWord, translationList }) => {
           currentRow={currentRow}
           isWon={gameState === GAME_STATES.WIN}
           style={{ alignSelf: "flex-end" }}
+        />
+        <input
+          ref={inputRef}
+          type="text"
+          value=""
+          onChange={() => {}}
+          style={{
+            position: "absolute",
+            top: 0,
+            left: 0,
+            right: 0,
+            bottom: 0,
+            opacity: 0,
+            width: "100%",
+            height: "100%",
+            background: "transparent",
+            border: "none",
+            outline: "none",
+            zIndex: 2,
+          }}
         />
       </div>
       <StatusBar />
