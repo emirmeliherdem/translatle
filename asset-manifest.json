@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/translatle/static/css/main.d54a449b.css",
-    "main.js": "/translatle/static/js/main.28187cee.js",
+    "main.js": "/translatle/static/js/main.5b3a4ab3.js",
     "static/js/453.9f08f537.chunk.js": "/translatle/static/js/453.9f08f537.chunk.js",
     "index.html": "/translatle/index.html",
     "main.d54a449b.css.map": "/translatle/static/css/main.d54a449b.css.map",
-    "main.28187cee.js.map": "/translatle/static/js/main.28187cee.js.map",
+    "main.5b3a4ab3.js.map": "/translatle/static/js/main.5b3a4ab3.js.map",
     "453.9f08f537.chunk.js.map": "/translatle/static/js/453.9f08f537.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d54a449b.css",
-    "static/js/main.28187cee.js"
+    "static/js/main.5b3a4ab3.js"
   ]
 }
