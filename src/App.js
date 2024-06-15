@@ -6,6 +6,8 @@ import gameData from "./constants/gameData.json";
 import { BsTranslate } from "react-icons/bs";
 import { BsQuestionCircle } from "react-icons/bs";
 
+const _ = require("lodash");
+
 function App() {
   const modalRef = useRef();
   const openGuideModal = () => {
@@ -16,7 +18,9 @@ function App() {
 
   function getWordData() {
     const index = Math.floor(Math.random() * gameData.gameData.length);
-    return gameData.gameData[index];
+    const wordData = gameData.gameData[index];
+    wordData.translationOptions = _.shuffle(wordData.translationOptions);
+    return wordData;
   }
 
   return (
